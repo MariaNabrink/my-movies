@@ -1,0 +1,152 @@
+#body{
+	text-align: left;
+	position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0;
+    margin: 0;
+    height:100%;
+}
+
+#body1{
+	text-align: left;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0;
+    margin: 0;
+    height:100%;
+}
+
+
+#body2{
+	text-align: left;
+	position: relative;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 0;
+    margin: 0;
+    height:100%;
+}
+
+
+#headerImage1{
+	background-image:url('531951-caligari_1.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	padding: 100px;
+	background-color: black;
+}
+
+#headerText{
+	font-family: arial;
+	font-size: 300%;
+	color: #6699FF;
+}
+
+#footerText{
+	font-family: arial;
+	color: #6699FF;
+	font-size: 100%;
+}
+
+#footer{
+	background-color: black;
+	padding:  20px 60px;
+	position: absolute;
+    bottom:0;
+    width: 100%; 
+}
+
+#border{
+	text-align: center;
+	min-height:100%;
+	position:relative;
+}
+
+#table{
+	border-collapse: collapse;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#table1{
+	border-collapse: collapse;
+	margin-top: 20px;
+	margin-bottom: 100px;
+}
+
+th, td{
+	border: 1px solid black;
+	padding: 10px;
+}
+
+th{
+	color: #6699FF;
+	background-color: black;
+	font-family: ariaL;
+}
+
+h1{
+	color: #003366;
+	margin-top: 50px;
+	font-family: arial;
+	font-weight: bolder;
+}
+
+p{
+	margin-bottom: 50px;
+}
+
+h2{
+	color: #003366;
+}
+
+#link{
+	font-weight: bolder;
+	background-color: black;
+	color: #6699FF;
+	box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	display: inline-block;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	font: 14px/100% Arial, Helvetica, sans-serif;
+	padding: .5em 2em .55em;
+	text-shadow: 0 1px 1px rgba(0,0,0,.3);
+	-webkit-border-radius: .5em; 
+	-moz-border-radius: .5em;
+	border-radius: .5em;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+
+
+#link2{
+	margin-top:3px;
+    margin-right:1200px;
+	font-weight: bolder;
+	background-color: black;
+	color: #6699FF;
+	box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	display: inline-block;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	font: 14px/100% Arial, Helvetica, sans-serif;
+	padding: .5em 2em .55em;
+	text-shadow: 0 1px 1px rgba(0,0,0,.3);
+	-webkit-border-radius: .5em; 
+	-moz-border-radius: .5em;
+	border-radius: .5em;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
